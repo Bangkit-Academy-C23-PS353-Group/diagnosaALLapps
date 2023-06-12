@@ -8,10 +8,6 @@
         "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-29:/layout_activity_login.xml.flat",
-        "source": "com.example.diagnosaallapps.app-main-31:/layout/activity_login.xml"
-    },
-    {
         "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
@@ -42,6 +38,10 @@
     {
         "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.diagnosaallapps.app-merged_res-29:/layout_activity_register.xml.flat",
+        "source": "com.example.diagnosaallapps.app-main-31:/layout/activity_register.xml"
     },
     {
         "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",

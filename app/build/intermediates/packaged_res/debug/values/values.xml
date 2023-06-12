@@ -10,6 +10,7 @@
     <string name="app_name">diagnosaALLapps</string>
     <string name="log_in">Log In</string>
     <string name="login">Login</string>
+    <string name="regis">Register</string>
     <string name="register">register?</string>
     <style name="Theme.DiagnosaALLapps" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         
