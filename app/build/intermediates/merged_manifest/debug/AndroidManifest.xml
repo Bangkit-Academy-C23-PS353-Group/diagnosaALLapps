@@ -27,6 +27,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.DiagnosaALLapps" >
         <activity
+            android:name="com.example.diagnosaallapps.Upload"
+            android:exported="false" />
+        <activity
             android:name="com.example.diagnosaallapps.Result"
             android:exported="false" />
         <activity

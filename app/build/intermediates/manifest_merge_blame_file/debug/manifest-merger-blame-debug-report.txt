@@ -22,7 +22,7 @@
 15-->[androidx.core:core:1.9.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\c73afc1fa215d9ca128620a3c01802b0\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:5:5-32:19
+17-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:5:5-35:19
 18        android:allowBackup="true"
 18-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -44,61 +44,67 @@
 28-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:12:9-53
 29        <activity
 29-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:14:9-16:40
-30            android:name="com.example.diagnosaallapps.Result"
+30            android:name="com.example.diagnosaallapps.Upload"
 30-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:15:13-35
 31            android:exported="false" />
 31-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:16:13-37
 32        <activity
 32-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:17:9-19:40
-33            android:name="com.example.diagnosaallapps.Register"
-33-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:18:13-37
+33            android:name="com.example.diagnosaallapps.Result"
+33-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:18:13-35
 34            android:exported="false" />
 34-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:19:13-37
 35        <activity
 35-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:20:9-22:40
-36            android:name="com.example.diagnosaallapps.Login"
-36-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:21:13-34
+36            android:name="com.example.diagnosaallapps.Register"
+36-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:21:13-37
 37            android:exported="false" />
 37-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:22:13-37
 38        <activity
-38-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:23:9-31:20
-39            android:name="com.example.diagnosaallapps.MainActivity"
-39-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:24:13-41
-40            android:exported="true" >
-40-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:25:13-36
-41            <intent-filter>
-41-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:26:13-30:29
-42                <action android:name="android.intent.action.MAIN" />
-42-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:27:17-69
-42-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:27:25-66
-43
-44                <category android:name="android.intent.category.LAUNCHER" />
-44-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:29:17-77
-44-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:29:27-74
-45            </intent-filter>
-46        </activity>
-47
-48        <provider
-48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-49            android:name="androidx.startup.InitializationProvider"
-49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-50            android:authorities="com.example.diagnosaallapps.androidx-startup"
-50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-51            android:exported="false" >
-51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-52            <meta-data
-52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-53                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-54                android:value="androidx.startup" />
-54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+38-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:23:9-25:40
+39            android:name="com.example.diagnosaallapps.Login"
+39-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:24:13-34
+40            android:exported="false" />
+40-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:25:13-37
+41        <activity
+41-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:26:9-34:20
+42            android:name="com.example.diagnosaallapps.MainActivity"
+42-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:27:13-41
+43            android:exported="true" >
+43-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:28:13-36
+44            <intent-filter>
+44-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:29:13-33:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:30:17-69
+45-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:30:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:32:17-77
+47-->C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:32:27-74
+48            </intent-filter>
+49        </activity>
+50
+51        <provider
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+52            android:name="androidx.startup.InitializationProvider"
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+53            android:authorities="com.example.diagnosaallapps.androidx-startup"
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+54            android:exported="false" >
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
 55            <meta-data
-55-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\- ASUS -\.gradle\caches\transforms-3\d64e7ca6b93f4a6c092b1dd37cf249d6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-56                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-56-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\- ASUS -\.gradle\caches\transforms-3\d64e7ca6b93f4a6c092b1dd37cf249d6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+56                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
 57                android:value="androidx.startup" />
-57-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\- ASUS -\.gradle\caches\transforms-3\d64e7ca6b93f4a6c092b1dd37cf249d6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-58        </provider>
-59    </application>
-60
-61</manifest>
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+58            <meta-data
+58-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\- ASUS -\.gradle\caches\transforms-3\d64e7ca6b93f4a6c092b1dd37cf249d6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+59-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\- ASUS -\.gradle\caches\transforms-3\d64e7ca6b93f4a6c092b1dd37cf249d6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+60                android:value="androidx.startup" />
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\- ASUS -\.gradle\caches\transforms-3\d64e7ca6b93f4a6c092b1dd37cf249d6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+61        </provider>
+62    </application>
+63
+64</manifest>

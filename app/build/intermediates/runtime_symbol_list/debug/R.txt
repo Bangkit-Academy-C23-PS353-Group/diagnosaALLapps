@@ -3008,6 +3008,7 @@ int drawable notification_template_icon_bg 0x7f0700d9
 int drawable notification_template_icon_low_bg 0x7f0700da
 int drawable notification_tile_bg 0x7f0700db
 int drawable notify_panel_notification_icon_bg 0x7f0700dc
+int drawable picbutton 0x7f0700e7
 int drawable picex 0x7f0700e6
 int drawable rectangle 0x7f0700dd
 int drawable rectangleback 0x7f0700de
@@ -3242,6 +3243,9 @@ int id imageView3 0x7f0801f0
 int id imageView4 0x7f0801f6
 int id imageView5 0x7f0801f7
 int id imageView6 0x7f0801f8
+int id imageView7 0x7f0801fe
+int id imageView8 0x7f0801ff
+int id imageView9 0x7f080200
 int id immediateStop 0x7f0800db
 int id included 0x7f0800dc
 int id indeterminate 0x7f0800dd
@@ -3641,6 +3645,7 @@ int layout activity_login 0x7f0b001c
 int layout activity_main 0x7f0b001d
 int layout activity_register 0x7f0b006b
 int layout activity_result 0x7f0b006c
+int layout activity_upload 0x7f0b006d
 int layout custom_dialog 0x7f0b001e
 int layout design_bottom_navigation_item 0x7f0b001f
 int layout design_bottom_sheet_dialog 0x7f0b0020

@@ -14,6 +14,7 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable inputobeject
 drawable myelipse
+drawable picbutton
 drawable picex
 drawable rectangle
 drawable rectangleback
@@ -27,6 +28,9 @@ id imageView3
 id imageView4
 id imageView5
 id imageView6
+id imageView7
+id imageView8
+id imageView9
 id textView
 id textView2
 id textView3
@@ -38,6 +42,7 @@ layout activity_login
 layout activity_main
 layout activity_register
 layout activity_result
+layout activity_upload
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name

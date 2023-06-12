@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-34:12
+ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-37:12
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\7c17ec530a582ee93364914402f6f204\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\- ASUS -\.gradle\caches\transforms-3\fe5722c2d28764b765710ac6c318c6e8\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\- ASUS -\.gradle\caches\transforms-3\41dcf42bc854479e43f628ab1a52618d\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -44,27 +44,27 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\- ASUS -\.gradle
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\7035a2135f2972f98fa12a92c56bc089\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\2ff53fee4bc33a1da5cdbfe55cfab510\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\a21766c7c1a00190a294c68fee7e28e6\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-37:12
 	package
 		INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-34:12
+		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-37:12
 		INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-34:12
+		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-37:12
 		INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-34:12
+		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:1-37:12
 		INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:5:5-32:19
+ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:5:5-35:19
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\7c17ec530a582ee93364914402f6f204\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\- ASUS -\.gradle\caches\transforms-3\7c17ec530a582ee93364914402f6f204\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\- ASUS -\.gradle\caches\transforms-3\fe5722c2d28764b765710ac6c318c6e8\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -97,40 +97,46 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\- ASUS -\.gradle\c
 		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:12:9-53
 	android:dataExtractionRules
 		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.diagnosaallapps.Result
+activity#com.example.diagnosaallapps.Upload
 ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:14:9-16:40
 	android:exported
 		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:16:13-37
 	android:name
 		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:15:13-35
-activity#com.example.diagnosaallapps.Register
+activity#com.example.diagnosaallapps.Result
 ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:17:9-19:40
 	android:exported
 		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:18:13-37
-activity#com.example.diagnosaallapps.Login
+		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:18:13-35
+activity#com.example.diagnosaallapps.Register
 ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:20:9-22:40
 	android:exported
 		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:22:13-37
 	android:name
-		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:21:13-34
-activity#com.example.diagnosaallapps.MainActivity
-ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:23:9-31:20
+		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:21:13-37
+activity#com.example.diagnosaallapps.Login
+ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:23:9-25:40
 	android:exported
-		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:25:13-36
+		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:25:13-37
 	android:name
-		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:24:13-41
+		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:24:13-34
+activity#com.example.diagnosaallapps.MainActivity
+ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:exported
+		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:27:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:26:13-30:29
+ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:27:17-69
+ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:27:25-66
+		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:29:17-77
+ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:29:27-74
+		ADDED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml:32:27-74
 uses-sdk
 INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\- ASUS -\AndroidStudioProjects\diagnosaapp\app\src\main\AndroidManifest.xml
