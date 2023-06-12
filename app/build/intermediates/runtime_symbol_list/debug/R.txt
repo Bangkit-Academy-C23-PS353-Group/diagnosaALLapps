@@ -2905,6 +2905,8 @@ int drawable abc_textfield_search_material 0x7f070076
 int drawable abc_vector_test 0x7f070077
 int drawable avd_hide_password 0x7f070078
 int drawable avd_show_password 0x7f070079
+int drawable bigrectangle 0x7f0700e4
+int drawable bigrectangleblue 0x7f0700e5
 int drawable btn_checkbox_checked_mtrl 0x7f07007a
 int drawable btn_checkbox_checked_to_unchecked_mtrl_animation 0x7f07007b
 int drawable btn_checkbox_unchecked_mtrl 0x7f07007c
@@ -3006,6 +3008,7 @@ int drawable notification_template_icon_bg 0x7f0700d9
 int drawable notification_template_icon_low_bg 0x7f0700da
 int drawable notification_tile_bg 0x7f0700db
 int drawable notify_panel_notification_icon_bg 0x7f0700dc
+int drawable picex 0x7f0700e6
 int drawable rectangle 0x7f0700dd
 int drawable rectangleback 0x7f0700de
 int drawable test_level_drawable 0x7f0700df
@@ -3236,6 +3239,9 @@ int id image 0x7f0800d9
 int id imageView 0x7f0800da
 int id imageView2 0x7f0801ef
 int id imageView3 0x7f0801f0
+int id imageView4 0x7f0801f6
+int id imageView5 0x7f0801f7
+int id imageView6 0x7f0801f8
 int id immediateStop 0x7f0800db
 int id included 0x7f0800dc
 int id indeterminate 0x7f0800dd
@@ -3465,6 +3471,11 @@ int id textStart 0x7f0801bc
 int id textTop 0x7f0801bd
 int id textView 0x7f0801f1
 int id textView2 0x7f0801f5
+int id textView3 0x7f0801f9
+int id textView4 0x7f0801fa
+int id textView5 0x7f0801fb
+int id textView6 0x7f0801fc
+int id textView7 0x7f0801fd
 int id text_input_end_icon 0x7f0801be
 int id text_input_error_icon 0x7f0801bf
 int id text_input_start_icon 0x7f0801c0
@@ -3629,6 +3640,7 @@ int layout abc_tooltip 0x7f0b001b
 int layout activity_login 0x7f0b001c
 int layout activity_main 0x7f0b001d
 int layout activity_register 0x7f0b006b
+int layout activity_result 0x7f0b006c
 int layout custom_dialog 0x7f0b001e
 int layout design_bottom_navigation_item 0x7f0b001f
 int layout design_bottom_sheet_dialog 0x7f0b0020
